@@ -10,6 +10,10 @@ source setup.sh
 
 # Configuración en Windows
 
+## otras cositas necesarias para instalar y ejecutar
+pip install nicegui
+python homework/csv2json.py
+
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
